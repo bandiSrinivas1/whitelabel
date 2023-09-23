@@ -23,7 +23,7 @@ public class ClassplusBaseMobileAutomationTest extends B2BBaseMobileAutomationTe
 	
 	static String CODE = "learn";
 	static String EMAIL = "gunjan@classplusappp.com";
-	protected static String TUTOR_NUMBER= "9711153079";
+	protected static String TUTOR_NUMBER= "9871389116";
 	protected static String FACULTY_NUMBER= "7290085267";
 	protected static String STUDENT_NUMBER= "9502247373";
 	protected static String PARENT_NUMBER= "7675952597";

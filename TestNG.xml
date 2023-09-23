@@ -7,7 +7,7 @@
 <parameter name="url" value="Mobilelabs" />
 	<parameter name="otp" value="1234" />
 	<parameter name="deviceName_one" value="Galaxy" />
-	<parameter name="udid_one" value="1376185036000AL" />
+	<parameter name="udid_one" value="aa9cc08" />
 	<parameter name="platformName_one" value="Android" />
 	<parameter name="platformVersion_one" value="12" />
 <parameter name="clientApiKey" value="6746f86b-0d3b-4746-a042-5e9d2beeeeac" />
